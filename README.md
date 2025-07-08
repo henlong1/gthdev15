@@ -1,1 +1,1 @@
-# gthdev15 두바이
+# gthdev15
